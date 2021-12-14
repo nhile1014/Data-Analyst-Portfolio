@@ -11,4 +11,9 @@ This is a repository that I have created to showcase skills, share projects and 
 # Portfolio Projects
 In this section I will list data analytics and data science projects briefly describing the technology stack used to solve cases.
 
-## 
+## A sentiment-based model using hotel reviews and Machine Learning techniques
+**Code:**
+**Desctiption:** The data was collected from Booking.com. The dataset originally held a little over 20,000 reviews, hotel scores, and all geographical locations across Europe. The project includes the following steps: Sentiment Annotation, Data Exploration, Data Visualization, Text Cleaning and Text preprocess, Training Model, Testing Saved model. 
+**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.
+**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, sklearn, tensorflow, keras. 
+**Results:** The sentiment results will be used to determine the number of positive and negative reviews.
