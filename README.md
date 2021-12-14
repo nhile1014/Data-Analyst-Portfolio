@@ -9,6 +9,6 @@ This is a repository that I have created to showcase skills, share projects and 
 # Table of contents
 
 # Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section I will list data analytics and data science projects briefly describing the technology stack used to solve cases.
 
 ## 
