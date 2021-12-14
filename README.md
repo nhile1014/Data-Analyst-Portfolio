@@ -5,3 +5,10 @@ Hi, I am Nhi. I just graduated a Master of Science (M.S.) degree in Business Ana
 With more than two years of studying and practicing, I get skilled in a wide variety of software and data management systems, ranging from Excel, SQL, Python, and Tableau to big data supporting like Hadoop, Spark. Besides, during the time I had worked as Marketing Executive, I had sales and marketing insight that helps me to contribute on not only technical skills but also business side. 
 
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+# Table of contents
+
+# Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+## 
