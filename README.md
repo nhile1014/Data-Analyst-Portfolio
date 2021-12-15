@@ -7,11 +7,12 @@ With more than two years of studying and practicing, I get skilled in a wide var
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 # Table of contents
+1. A sentiment-based model using hotel reviews and Machine Learning techniques
 
 # Portfolio Projects
 In this section I will list data analytics and data science projects briefly describing the technology stack used to solve cases.
 
-## A sentiment-based model using hotel reviews and Machine Learning techniques
+## 1. A sentiment-based model using hotel reviews and Machine Learning techniques
 **Code:** [Link](https://github.com/nhile1014/project_code/blob/35f09091c9a4ce7174151d95d9b4a96e6da6ad71/HotelReviewsSentimentAnalysis.ipynb)
 
 **Desctiption:** The data was collected from Booking.com. The dataset originally held a little over 20,000 reviews, hotel scores, and all geographical locations across Europe. The project includes the following steps: Sentiment Annotation, Data Exploration, Data Visualization, Text Cleaning and Text preprocess, Training Model, Testing Saved model. 
