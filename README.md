@@ -12,6 +12,7 @@ This is a repository that I have created to showcase skills, share projects and 
 
 - [Portfolio Projects](#heading)
   * [A sentiment-based model using hotel reviews and Machine Learning techniques](#sub-heading)
+  * [2.](#sub-heading)
 - [Portfolio Projects](#heading-1)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
@@ -35,6 +36,7 @@ In this section I will list data analytics and data science projects briefly des
 
 **Results:** The sentiment results will be used to determine the number of positive and negative reviews.
 
+### 2.
 
 ## Heading
 
