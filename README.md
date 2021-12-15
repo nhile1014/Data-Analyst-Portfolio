@@ -10,9 +10,8 @@ This is a repository that I have created to showcase skills, share projects and 
 
 ## Table of contents
 
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
+- [Portfolio Projects](#heading)
+  * [A sentiment-based model using hotel reviews and Machine Learning techniques](#sub-heading)
 - [Portfolio Projects](#heading-1)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
