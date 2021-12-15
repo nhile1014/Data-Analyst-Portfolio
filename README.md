@@ -7,7 +7,8 @@ With more than two years of studying and practicing, I get skilled in a wide var
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 # Table of contents
-1. A sentiment-based model using hotel reviews and Machine Learning techniques
+- [1. A sentiment-based model using hotel reviews and Machine Learning techniques](#heading)
+  * [Sub-heading](#sub-heading)
 
 # Portfolio Projects
 In this section I will list data analytics and data science projects briefly describing the technology stack used to solve cases.
