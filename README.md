@@ -6,7 +6,17 @@ With more than two years of studying and practicing, I get skilled in a wide var
 
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-# Table of contents
+## Table of contents
+
+- [About](#heading)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#heading-1)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Heading](#heading-2)
+  * [Sub-heading](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
 - [About](#heading)
 - [Portfolio Projects](#heading)
   * [1. A sentiment-based model using hotel reviews and Machine Learning techniques](#sub-heading)
