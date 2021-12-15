@@ -8,16 +8,15 @@ This is a repository that I have created to showcase skills, share projects and 
 
 ## Table of contents
 
-- [About](##About)
-- [Portfolio Projects](##Portfolio Projects)
+- [Heading](#heading)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Portfolio Projects](#heading-1)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 - [Heading](#heading-2)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
-- [About](#heading)
-- [Portfolio Projects](#heading)
-  * [1. A sentiment-based model using hotel reviews and Machine Learning techniques](#sub-heading)
 
 ## Portfolio Projects
 In this section I will list data analytics and data science projects briefly describing the technology stack used to solve cases.
@@ -33,22 +32,10 @@ In this section I will list data analytics and data science projects briefly des
 
 **Results:** The sentiment results will be used to determine the number of positive and negative reviews.
 
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
 
+# Portfolio Projects
 
-# Heading levels
-
-> This is a fixture to test heading levels
-
-<!-- toc -->
+In this section I will list data analytics and data science projects briefly describing the technology stack used to solve cases.
 
 ## Heading
 
