@@ -8,7 +8,7 @@ This is a repository that I have created to showcase skills, share projects and 
 
 ## Table of contents
 
-- [About](## About)
+- [About](##About)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
