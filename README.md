@@ -15,12 +15,12 @@ In this section I will list data analytics and data science projects briefly des
 ### 1. A sentiment-based model using hotel reviews and Machine Learning techniques
 **Code:** [Link](https://github.com/nhile1014/project_code/blob/35f09091c9a4ce7174151d95d9b4a96e6da6ad71/HotelReviewsSentimentAnalysis.ipynb)  
 **Desctiption:** The data was collected from Booking.com. The dataset originally held a little over 20,000 reviews, hotel scores, and all geographical locations across Europe. The project includes the following steps: Sentiment Annotation, Data Exploration, Data Visualization, Text Cleaning and Text preprocess, Training Model, Testing Saved model.  
-**Skills:** data cleaning, data analysis, data visualization, Natural Language Processing (NLP), Machine Learning.
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, sklearn, tensorflow, keras. 
+**Skills:** data cleaning, data analysis, data visualization, Natural Language Processing (NLP), Machine Learning.  
+**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, sklearn, tensorflow, keras.   
 **Results:** The sentiment results will be used to determine the number of positive and negative reviews.
 
 ### 2. Sales Performance of a company from 2003-2005
-**Tableau Public:** [Link](https://public.tableau.com/app/profile/nhi.thanh.yen.le/viz/finalproject_Nhi_Le/DASHBORAD)
-**Desctiption:** The dataset is about a company that sells sevens products all over the world, has more than $10 million in sales revenue for almost three years. This dataset contains 25 variables and 2823 rows of data. This project aims to create a dashboard that reports and analyzes the sales performance from 2003 to 2005. Then, I have created some linear trend models and sale forecasting for the next 12 months to better understand the dataset and the sales performance.
-**Skills:** Designing an anylycial dashboard.
-**Technology:** Tableau (Tableau Desktop and Tableau Public)
+**Tableau Public:** [Link](https://public.tableau.com/app/profile/nhi.thanh.yen.le/viz/finalproject_Nhi_Le/DASHBORAD)  
+**Desctiption:** The dataset is about a company that sells sevens products all over the world, has more than $10 million in sales revenue for almost three years. This dataset contains 25 variables and 2823 rows of data. This project aims to create a dashboard that reports and analyzes the sales performance from 2003 to 2005. Then, I have created some linear trend models and sale forecasting for the next 12 months to better understand the dataset and the sales performance.  
+**Skills:** Designing an anylycial dashboard.  
+**Technology:** Tableau (Tableau Desktop and Tableau Public)  
