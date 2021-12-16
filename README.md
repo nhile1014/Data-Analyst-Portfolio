@@ -8,18 +8,6 @@ With more than two years of studying and practicing, I get skilled in a wide var
 
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-## Table of contents
-
-- [Portfolio Projects](#heading)
-  * [A sentiment-based model using hotel reviews and Machine Learning techniques](#sub-heading)
-  * [2.](#sub-heading)
-- [Portfolio Projects](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
-
 ## Portfolio Projects
 
 In this section I will list data analytics and data science projects briefly describing the technology stack used to solve cases.
