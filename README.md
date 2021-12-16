@@ -26,8 +26,8 @@ In this section I will list data analytics and data science projects briefly des
 **Technology:** Tableau (Tableau Desktop and Tableau Public)  
 
 ### 3. Basic Sentiment Analysis using Hive
-**Code**: [Link](https://github.com/nhile1014/Basic-Sentiment-Analysis-using-Hive/blob/main/README.md)
-**Desctiption:** To determine each tweet's score and identify whether the tweet had a positive, negative, or neutral sentiment, I created an excel file calls tweet.csv with 20 tweets. Use the Dictionary.txt file for determining the score.
-**Skills:** sentiment analysis using Hive. 
-**Technology:** Hive, Hadoop
-**Result:** Determine the score for each tweet. Identify whether the tweet had a positive or negative sentiment
+**Code**: [Link](https://github.com/nhile1014/Basic-Sentiment-Analysis-using-Hive/blob/main/README.md)  
+**Desctiption:** To determine each tweet's score and identify whether the tweet had a positive, negative, or neutral sentiment, I created an excel file calls tweet.csv with 20 tweets. Use the Dictionary.txt file for determining the score.  
+**Skills:** sentiment analysis using Hive.   
+**Technology:** Hive, Hadoop  
+**Result:** Determine the score for each tweet. Identify whether the tweet had a positive or negative sentiment  
