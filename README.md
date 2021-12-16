@@ -27,11 +27,11 @@ In this section I will list data analytics and data science projects briefly des
 **Result:** Determine the score for each tweet. Identify whether the tweet had a positive or negative sentiment  
 
 ### 3. Basic data analysis using Spark
-**Code**: [Link](https://github.com/nhile1014/basic-data-analysis-using-Spark/blob/main/README.md)
-**Desctiption:** Explore the Craft Brewery data to perform basic data analysis using Spark.
-**Skills:** Data analytics.
-**Technology:** Spark.
-**Result:** Determine the number of breweries in each state, the cities with the most breweries, and the most brewed beer style
+**Code**: [Link](https://github.com/nhile1014/basic-data-analysis-using-Spark/blob/main/README.md)  
+**Desctiption:** Explore the Craft Brewery data to perform basic data analysis using Spark.  
+**Skills:** Data analytics.  
+**Technology:** Spark.  
+**Result:** Determine the number of breweries in each state, the cities with the most breweries, and the most brewed beer style  
 
 ### 4. Sales Performance of a company from 2003-2005
 **Tableau Public:** [Link](https://public.tableau.com/app/profile/nhi.thanh.yen.le/viz/finalproject_Nhi_Le/DASHBORAD)  
