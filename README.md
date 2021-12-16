@@ -45,16 +45,3 @@ In this section I will list data analytics and data science projects briefly des
 **Skills:** Designing an anylycial dashboard.
 
 **Technology:** Tableau (Tableau Desktop and Tableau Public)
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
