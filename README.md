@@ -24,3 +24,10 @@ In this section I will list data analytics and data science projects briefly des
 **Desctiption:** The dataset is about a company that sells sevens products all over the world, has more than $10 million in sales revenue for almost three years. This dataset contains 25 variables and 2823 rows of data. This project aims to create a dashboard that reports and analyzes the sales performance from 2003 to 2005. Then, I have created some linear trend models and sale forecasting for the next 12 months to better understand the dataset and the sales performance.  
 **Skills:** Designing an anylycial dashboard.  
 **Technology:** Tableau (Tableau Desktop and Tableau Public)  
+
+### 3. Basic Sentiment Analysis using Hive
+**Code**: [Link](https://github.com/nhile1014/Basic-Sentiment-Analysis-using-Hive/blob/main/README.md)
+**Desctiption:** To determine each tweet's score and identify whether the tweet had a positive, negative, or neutral sentiment, I created an excel file calls tweet.csv with 20 tweets. Use the Dictionary.txt file for determining the score.
+**Skills:** sentiment analysis using Hive. 
+**Technology:** Hive, Hadoop
+**Result:** Determine the score for each tweet. Identify whether the tweet had a positive or negative sentiment
