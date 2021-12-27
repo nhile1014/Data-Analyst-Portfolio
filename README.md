@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I am Nhi. I just graduated with a Master of Science (M.S.) degree in Business Analytics in December 2021, majoring in Data Engineering at the University of North Texas. I had worked as Senior Marketing Executive for two real estate companies for more than 3 years before I moved to the US for my education about 5 years ago.
+Hi, I am Nhi. I just graduated with a Master of Science (M.S.) degree in Business Analytics in December 2021 at the University of North Texas. I had worked as Senior Marketing Executive for two real estate companies for more than 3 years before I moved to the US for my education about 5 years ago.
 
 With more than two years of studying and practicing, I get skilled in a wide variety of software and data management systems, ranging from Excel, SQL, Python, and Tableau to big data supporting like Hadoop, Spark. Besides, during the time I had worked as Marketing Executive, I had sales and marketing insight that helps me to contribute not only to technical skills but also the business side.
 
