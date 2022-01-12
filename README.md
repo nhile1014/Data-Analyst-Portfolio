@@ -4,7 +4,7 @@
 
 Hi, I my name is Nhi. I recently graduated in December with a Master of Science (M.S.) degree in Business Analytics from the University of North Texas. Previously, I worked as a Senior Marketing Executive for two real estate companies for over three years prior to relocating to the US for my education about five years ago. While working as a marketing executive I developed sales and marketing insight that helped me to contribute not only my technical skills but allowed me to gain insight to the business side of the company.
 
-After more than two years of studying and practicing, I got skilled in a wide variety of software and data management systems, ranging from Excel, SQL, Python, and Tableau to big data support systems like Hadoop, Spark.
+After more than two years of studying and practicing, I got skilled in a wide variety of software and data management systems, ranging from Excel, SQL, Python, and Tableau to big data support systems like Hadoop, and Spark.
 
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
