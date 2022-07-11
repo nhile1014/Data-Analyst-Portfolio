@@ -2,11 +2,11 @@
 
 ## About
 
-Hi, my name is Nhi. I have a Master of Science (M.S.) degree in Business Analytics from the University of North Texas, and I have more than three years of experience working as a Senior Marketing Executive for two real estate companies.
+Hi, my name is Nhi. I have a Master of Science (M.S.) degree in Business Analytics from the University of North Texas.
 
 After spending more than two years dedicated to studying and practicing my skills, I now have a more varied skill set that spans a wide array of software and data management systems. I am proficient with Excel, SQL, Tableau, and Python, as well as big data software like Hadoop and Spark.
 
-Thanks to my time spent as a Senior Marketing Executive, I have knowledge in sales and marketing that plays a key role in my ability to gain crucial insights that can help not only the technical but also the business side of the company.
+Thanks to my time spent working in Marketing field, I have knowledge in sales and marketing that plays a key role in my ability to gain crucial insights that can help not only the technical but also the business side of the company.
 
 This is a repository that I have created to showcase my skills, share projects, and track my progress in Data Analytics / Data Science related topics.
 
