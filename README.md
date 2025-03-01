@@ -2,13 +2,13 @@
 
 ## About
 
-Hi, my name is Nhi. I have a Master of Science (M.S.) degree in Business Analytics from the University of North Texas.
+Hi, my name is Nhi Le. I hold a Master of Science in Business Analytics with a concentration in Data Engineering from the University of North Texas and an MBA from the University of Texas at Tyler.
 
-After spending more than two years dedicated to studying and practicing my skills, I now have a more varied skill set that spans a wide array of software and data management systems. I am proficient with Excel, SQL, Tableau, and Python, as well as big data software like Hadoop and Spark.
+With experience as a Data Analyst and Project Manager, I specialize in designing and implementing scalable data solutions, leading teams in data migration projects, and optimizing database structures. I have expertise in SQL, Python, Snowflake, and cloud platforms such as AWS. My background includes building interactive dashboards with Power BI, Sigma Computing, and Figma to support data-driven decision-making.
 
-Thanks to my time spent working in Marketing field, I have knowledge in sales and marketing that plays a key role in my ability to gain crucial insights that can help not only the technical but also the business side of the company.
+Beyond technical skills, I have experience in project management, coordinating cross-functional teams, and streamlining business processes to drive efficiency. My previous work in marketing further strengthens my ability to bridge the gap between business strategy and data analytics.
 
-This is a repository that I have created to showcase my skills, share projects, and track my progress in Data Analytics / Data Science related topics.
+This repository showcases my projects, technical expertise, and continuous learning in data engineering, analytics, and software development.
 
 ## Portfolio Projects
 
